@@ -7,7 +7,7 @@ import chess.Color;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class  UI {
+public class UI {
 
     // https://stackoverflow.com/questions/5762491/how-to-print-color-in-console-using-system-out-println
 
